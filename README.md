@@ -55,7 +55,7 @@
 ### 3_ARMA_model
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  На основе временных рядов из проекта Introducing_in_time_series построить модель ARIMA.
+  На основе временных рядов из проекта Introducing_in_time_series построить модель ARMA.
   
   [Решение](https://github.com/msavilov/Time_series/blob/main/3_ARMA_model/arma_model.ipynb)
   
