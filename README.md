@@ -26,41 +26,55 @@
 
 ## Проекты
 
-  [1. Проект1](#)
+  [1. Introducing_in_time_series](#introducing_in_time_series)
   
-  [2. Проект1](#)
+  [2. Time_series_analysis](#time_series_analysis)
   
-  [3. Проект1](#)
+  [3. ARMA_model](#arma_model)
   
-  [4. Проект1](#)
+  [4. AutoRegressive_Conditional_Heteroscedasticity](#autoregressive_conditional_heteroscedasticity)
   
-  [5. Проект1](#)
+  [5. SSA_method](#ssa_method)
   
-### Проект1
+  [5. Markov_processes](#markov_processes)
   
-  Описание
-
-  [Решение]()
-  
-### Проект2
+### 1_Introducing_in_time_series
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
   [Решение]()
   
-### Проект3
+### 2_Time_series_analysis
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
   [Решение]()
   
-### Проект4
+### 3_ARMA_model
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
   [Решение]()
   
-### Проект5
+### 4_AutoRegressive_Conditional_Heteroscedasticity
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+  
+  Описание
+
+  [Решение]()
+  
+### 5_SSA_method
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+  
+  Описание
+
+  [Решение]()
+  
+### 6_Markov_processes
+  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
