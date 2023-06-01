@@ -36,46 +36,46 @@
   
   [5. SSA_method](#5_ssa_method)
   
-  [5. Markov_processes](#6_markov_processes)
+  [6. Markov_processes](#6_markov_processes)
   
 ### 1_Introducing_in_time_series
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/1_Introducing_in_time_series/introducing_in_time_series.ipynb)
   
 ### 2_Time_series_analysis
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/2_Time_series_analysis/time_series_analysis.ipynb)
   
 ### 3_ARMA_model
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/3_ARMA_model/arma_model.ipynb)
   
 ### 4_AutoRegressive_Conditional_Heteroscedasticity
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/4_AutoRegressive_Conditional_Heteroscedasticity/autoregressive_conditional_heteroscedasticity.ipynb)
   
 ### 5_SSA_method
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/5_SSA_method/ssa_method.ipynb)
   
 ### 6_Markov_processes
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Time_series/blob/main/6_Markov_processes/markov_processes.ipynb)
