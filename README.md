@@ -49,9 +49,8 @@
   [Решение](https://github.com/msavilov/Time_series/blob/main/1_Introducing_in_time_series/introducing_in_time_series.ipynb)
   
 ### Time_series_analysis
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  На основе временных рядов из проекта обучить модели.
+  Применение моделей из класса Moving Average для приблизижения стационарных и не стационарных временных рядов.
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/2_Time_series_analysis/time_series_analysis.ipynb)
   
