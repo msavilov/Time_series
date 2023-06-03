@@ -17,12 +17,16 @@
 
 Учебные проекты курса "Временные ряды" профессии Data Science от Нетология.
 
+Датасеты, используемые в проектах, находятся в [Data](https://github.com/msavilov/Time_series/tree/main/Data).
+
 ### Технологии
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
 ![](https://img.shields.io/badge/scikit--learn-blue)
+![](https://img.shields.io/badge/statsmodels-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
+
 
 ## Проекты
 
@@ -39,16 +43,15 @@
   [6. Markov_processes](#markov_processes)
   
 ### Introducing_in_time_series
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  Проанализировать различные датасеты (временные ряды). При нахождении сезонности в данных, привести преобразования и добиться их стационарности.
+  Проанализировать различные датасеты (временные ряды) на стационарность. При необходимости привести с помощью преобразований к стационарному виду.
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/1_Introducing_in_time_series/introducing_in_time_series.ipynb)
   
 ### Time_series_analysis
   ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  На основе временных рядов из проекта Introducing_in_time_series обучить модели.
+  На основе временных рядов из проекта обучить модели.
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/2_Time_series_analysis/time_series_analysis.ipynb)
   
