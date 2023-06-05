@@ -54,10 +54,9 @@
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/2_Time_series_analysis/time_series_analysis.ipynb)
   
-### ARMA_model
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+### ARIMA_model
   
-  На основе временных рядов из проекта Introducing_in_time_series построить модель ARIMA.
+  Построение модели ARIMA.
   
   [Решение](https://github.com/msavilov/Time_series/blob/main/3_ARMA_model/arma_model.ipynb)
   
