@@ -1,5 +1,4 @@
 # Time_series
-![](https://img.shields.io/badge/Project%20status-In%20progress-green)
 
 ## Оглавление
 
@@ -73,8 +72,7 @@
   [Решение](https://github.com/msavilov/Time_series/blob/main/5_SSA_method/ssa_method.ipynb)
   
 ### Markov_processes
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
-  
-  Описание
+ 
+  Построение моделей на основе Марковской цепи.
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/6_Markov_processes/markov_processes.ipynb)
