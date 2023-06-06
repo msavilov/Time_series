@@ -67,9 +67,8 @@
   [Решение](https://github.com/msavilov/Time_series/blob/main/4_AutoRegressive_Conditional_Heteroscedasticity/autoregressive_conditional_heteroscedasticity.ipynb)
   
 ### SSA_method
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  Описание
+  Анализ временого ряда с помощью сингулярного спектрального анализа (SSA).
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/5_SSA_method/ssa_method.ipynb)
   
