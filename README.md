@@ -24,9 +24,9 @@
 ![](https://img.shields.io/badge/-Python--3.11-blue)
 ![](https://img.shields.io/badge/scikit--learn-blue)
 ![](https://img.shields.io/badge/statsmodels-blue)
+![](https://img.shields.io/badge/skforecast-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
-
 
 ## Проекты
 
@@ -61,9 +61,8 @@
   [Решение](https://github.com/msavilov/Time_series/blob/main/3_ARMA_model/arma_model.ipynb)
   
 ### AutoRegressive_Conditional_Heteroscedasticity
-  ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
-  На основе временных рядов из проекта Introducing_in_time_series построить модель GARCH.
+  Построение модели GARCH.
 
   [Решение](https://github.com/msavilov/Time_series/blob/main/4_AutoRegressive_Conditional_Heteroscedasticity/autoregressive_conditional_heteroscedasticity.ipynb)
   
